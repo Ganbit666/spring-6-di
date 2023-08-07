@@ -10,6 +10,6 @@ class MyControllerTest {
     void sayHallow() {
         MyController myController = new MyController();
 
-        System.out.println(myController.sayHallow());
+        System.out.println(myController.sayHello());
     }
 }
